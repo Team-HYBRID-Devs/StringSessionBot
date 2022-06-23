@@ -49,7 +49,7 @@ By @HYBRID_Bots
 
 Telegram Bot to generate Pyrogram and Telethon string session Hosted and Maintained @HYBRID_Bots
 
-🧑🏻‍💻 Source Code : Will be public soon ❕
+🧑🏻‍💻 Source Code : Will be public soon
 🪟 Framework : [Pyrogram](https://docs.pyrogram.org)
 🅰️ Language : [Python](https://www.python.org)
     """
